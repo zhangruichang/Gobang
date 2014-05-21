@@ -2,7 +2,7 @@ Gobang
 ======
 
 ## Description:
-A simple game of Gobang(五子棋) designed in Visual Basic 6.0.
+A simple game of Gobang(五子棋) with AI designed in Visual Basic 6.0.
 
 ##Requirements:
 1. Visual Basic 6.0 IDE to edit the project.
